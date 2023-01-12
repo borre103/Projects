@@ -1,4 +1,4 @@
-# Summary #
+# Summary 
 
 The objective of this project was to analyze a retail dataset of a global superstore for 4 years. I did an analysis of this dataset for the final project of the CoderHouse Data Analytics course. This analysis aims to help the company's top management in decision making by going from the most general to the most specific. 
 Starting with the finance performance of the company, through an analysis of orders and products, to an exhaustive analysis of customers and their location.
