@@ -14,7 +14,7 @@ I am now transitioning to data analyst, and I'm doing my personal projects which
 
 # Contact Me
   
-Contact method | -
+Contact method | &nbsp;
 ----------|------------
 Mail | ignacioborrego103@gmail.com 
 Linkedin | <https://www.linkedin.com/in/ignacio-borrego-7672a0128/> 
