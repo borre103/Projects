@@ -13,6 +13,7 @@ was aware of the number of charges I automated so he put me in charge of deliver
 I am now transitioning to data analyst, and I'm doing my personal projects which will allow me to improve my both SQL and dashboard assembly skills. 
 
 # Contact Me
-Contact method | 
+Contact method |
+---------:-------------------------------------------------------
 Mail | ignacioborrego103@gmail.com
 Linkedin | <https://www.linkedin.com/in/ignacio-borrego-7672a0128/>
