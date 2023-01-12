@@ -5,7 +5,9 @@ where I majored in Accounting. I started working in a small company as a Junior 
 department and I performed monthly bank reconciliations, billing control and accounting entries in Bejerman ERP system. Two years later I decided to quit in order
 to focus on my studies.
 <head> I graduated just before the pandemic started. After some months looking for a job, I joined ExxonMobil in September 2020 as a Controllers senior analyst where I mainly<head/>
-ensured accuracy of the financial reporting for the Downstream business and also gave accounting support. 
+ensured accuracy of the financial reporting for the Downstream business and also gave accounting support. Apart from my accounting duties, I always spent a lot of time 
+on task automation. For instance, part of my job was managing a large number of intercompany charges and sending them to the corresponding account and cost center. In order to do that automatically, I created some rules in SAP which allowed me not only to reduce that manual work but also to minimize the margin of error. My supervisor
+was aware of the number of charges I automated so he put me in charge of delivering presentations to other teams on the importance of automating and how to do it correctly.
 
 I am now transitioning to data analyst, and I'm doing my personal projects which will allow me to improve my both SQL and dashboard assembly skills. 
 
