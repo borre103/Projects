@@ -1,4 +1,4 @@
-#Background
+# Background
 
 My name is Ignacio Borrego and welcome to my Project portfolio. Allow me to introduce myself. I did my undergraduate at Universidad Católica Argentina (UCA) 
 where I majored in Accounting. I started working in a small company as a Junior accounting assistant back in 2015 while I was studying. I was part of the accounting 
