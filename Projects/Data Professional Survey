@@ -1,4 +1,4 @@
-# Summary
+ Summary
 
 The dataset is a survey of data professionals from different parts of the world. The investigation aimed to gain some insights into both the survey taker's professional
 and personal life. Some of the questions were about their current role, their salary, favorite programming language and what industry are they working in. Regarding
@@ -9,7 +9,7 @@ all the specific answers, so instead I categorized into "other" section. As for 
 information I divided that column into two (the minimum and maximum) and calculated the average.
 
 
-# Analysis:
+ Analysis:
 
 630 people participated in this survey with an average age of 30. It's important to note that the majority of respondents are from the United States with India in second place. The reason of this is because the average annual
 salary can change when selecting a specific country, due to the cost of living. Taking that into account, the highest paid position is Data Scientist, 
